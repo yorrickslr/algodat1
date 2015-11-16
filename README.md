@@ -1,4 +1,6 @@
-# First Exercise "Algorithms and Data Structures"
+-----------------------------------------------
+First Exercise "Algorithms and Data Structures"
+-----------------------------------------------
 
 created by Yorrick Sieler-Morzuch `114560`
 
